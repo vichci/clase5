@@ -67,7 +67,7 @@ $j=1;
         if($c % 2!==0){
             $r += $c;
             
-    }$c++;}
+    }$c++;} //importantisimo agregar el $c++ acá, porque adentro del if no sirve de nada
     
     echo $r ;
 
